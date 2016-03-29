@@ -1,7 +1,7 @@
-name: Princeling
+name: Joey Phinn
 favicon: null
-layout_spectrum: 0.5095155518501997
-typography_spectrum: 0.6476601574104279
+layout_spectrum: 0.59256
+typography_spectrum: 0.81488
 title: Princeling
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.43738434254191816
+    - '#010101'
+    - '#ffffff'
+    - '#adacb1'
+    - '#2d2c28'
+    - '#877f7c'
+  brandStrength: 0.5625
   lightness: 0.10225063748657703
   saturation: 0.6724243743810803
   rhythmicContrast: 0.838554635643959
