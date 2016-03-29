@@ -1,0 +1,28 @@
+name: Princeling
+favicon: null
+layout_spectrum: 0.5095155518501997
+typography_spectrum: 0.6476601574104279
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.43738434254191816
+  lightness: 0.10225063748657703
+  saturation: 0.6724243743810803
+  rhythmicContrast: 0.838554635643959
+purpose: []
