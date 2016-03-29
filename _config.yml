@@ -1,7 +1,7 @@
 name: Joey Phinn
 favicon: null
-layout_spectrum: 0.59256
-typography_spectrum: 0
+layout_spectrum: 0.23753
+typography_spectrum: 0.01352
 title: Princeling
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#2d2c28'
     - '#877f7c'
   brandStrength: 0.5
-  lightness: 0.5
+  lightness: 1
   saturation: 0.0625
-  rhythmicContrast: 0.838554635643959
+  rhythmicContrast: 0.5
 purpose: []
